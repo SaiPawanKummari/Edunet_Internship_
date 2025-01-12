@@ -9,4 +9,6 @@ A deep learning project aimed at detecting and classifying plant diseases from i
 **TensorFlow/Keras**: Framework for building and training the neural network model.
 **OpenCV**: For image preprocessing and augmentation.
 **Google-colab**: To document the project phases and results and also for GPU to train the model fast.
-Link to the dataset : [https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset](#thisll--be-a-helpful-section-about-the-dataset-Θ).
+
+# Link to the dataset : 
+[https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset](#thisll--be-a-helpful-section-about-the-dataset-Θ).
